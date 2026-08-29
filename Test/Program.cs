@@ -1,3 +1,3 @@
 ﻿
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, Feature!");
+Console.WriteLine("Hello, test!");
